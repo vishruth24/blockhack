@@ -10,9 +10,9 @@ This project used flask as a server which is connected to a blockchain python sc
 
 After installing the requirements from the requirements.txt file ,run
 
-''' 
+```
 python app.py
-'''
+```
 
 which starts the server in 127.0.0.1:8000.
 The login id and password is 1234,1234 respectively.
